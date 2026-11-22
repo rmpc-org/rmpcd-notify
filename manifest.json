@@ -1,0 +1,5 @@
+{
+  "author": "mierak",
+  "name": "notify",
+  "entry_point": "src/notify.lua"
+}
